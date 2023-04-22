@@ -1,0 +1,21 @@
+/*Developer: Gerard Bevere, IS117-006, Spring 2023*/
+
+hr{
+    width:100%
+}
+img {
+    width: 100%;
+}
+#left {
+    float: left;
+}
+#right {
+    float: right;
+}
+h3 {
+    text-align: center;
+    padding-bottom: 2em;
+}
+.col {
+    padding-bottom: 2em;
+}
